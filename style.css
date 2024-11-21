@@ -1,0 +1,49 @@
+body {
+    background-color: #f5f5dc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    background-color: white;
+    align-items: center;
+    margin: 90px 230px;
+    padding: 35px;
+ 
+}
+
+.container header {
+    background-color: rgba(221, 212, 212, 0.911);
+    text-align: center;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+} 
+
+.container header p {
+    font-size: 12px;
+    margin-top: -13px;
+}
+
+.text1 p {
+    font-size: 15px;
+}
+ 
+article p {
+    font-size: 16px;
+}
+
+figure img {
+    width: 110%;
+    margin-left: -35px;
+    border-radius: 0.5rem;
+}
+
+footer {
+    background-color: rgb(3, 3, 49);
+    text-align: center;
+    padding: 1rem 0.5rem;
+    border-radius: 0%;
+    color: aliceblue;
+    margin: 90px 230px;
+    margin-top: -100px;
+
+}
